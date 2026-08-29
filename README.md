@@ -1,4 +1,4 @@
-🌸 Orchids SWE Intern Challenge
+Orchids  Challenge
 This project is a full-stack web application that clones public websites using AI. The stack includes a FastAPI backend and a Next.js + TypeScript frontend.
 
 📦 Tech Stack
